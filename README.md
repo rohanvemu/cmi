@@ -1,2 +1,2 @@
-# wootwoot
-THIS THREAD HAS ALL THE CODE FOR THE CMI LAB
+# Cockroach Machine Interface Lab
+This repository includes all the code needed to model a cockroach machine interface. Samples videos of cockorach legs stimualted with varying voltages and currents are analyzed and the range of motion of the leg is characterized. For each leg, a set of equations was generated to model the movements of each leg in the x-y plane. The modeled cockroach legs are used to move to any points specified by solving for the angles needed to reach that position. Drawing "BE" in a continuous motion is shown as example. 
